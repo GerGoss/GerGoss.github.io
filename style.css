@@ -1,0 +1,18 @@
+body{
+	background:linear-gradient(-135deg, #45145A, #FF5300)
+
+
+
+}
+h1{
+	font-size:17pt;
+	color:#DCDCDC;
+	font-weight: bold
+}
+td{
+	 font-family:times new roman;
+}
+tr{
+	 font-family:times new roman;
+	 font-size:12pt ;
+}
